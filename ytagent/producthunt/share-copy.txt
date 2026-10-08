@@ -1,0 +1,11 @@
+ytagent is live.
+
+The YouTube downloader built for cloud AI agents
+
+- 13-method fallback chain
+- Built for agents
+- pip install ytagent-cli
+
+pip install ytagent-cli
+
+#aiagents #python #yt-dlp #buildinpublic

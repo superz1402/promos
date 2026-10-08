@@ -1,0 +1,5 @@
+YOUTUBE FOR YOUR AGENTS. NO DIGGING. NO SETUP. NO EXCUSES.
+
+pip install ytagent-cli
+
+#aiagents #python #yt-dlp #buildinpublic
