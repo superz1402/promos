@@ -1,0 +1,7 @@
+18,142+ skills. One catalog.
+
+14 frameworks. 10 kingdoms. One catalog.
+
+pip install lotr-skills
+
+#aiagents #claude #cursor #antigravity #opensource

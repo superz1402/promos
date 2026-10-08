@@ -1,0 +1,5 @@
+18,142+ SKILLS. ONE CATALOG. NO DIGGING. NO SETUP. NO EXCUSES.
+
+pip install lotr-skills
+
+#aiagents #claude #cursor #antigravity #opensource

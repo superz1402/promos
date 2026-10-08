@@ -1,0 +1,11 @@
+The Lord of the Skills is live.
+
+18,142+ AI agent skills across 14 frameworks
+
+- 14 frameworks covered
+- 357 canonical skills
+- lotr "write unit tests"
+
+pip install lotr-skills
+
+#aiagents #claude #cursor #antigravity #opensource
