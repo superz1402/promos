@@ -1,0 +1,3 @@
+Everything DevAtlas does, in one pass: instant search, hottest tools, hidden gems, always fresh, compare, categories, weekly trends.
+
+https://devtomb.netlify.app/

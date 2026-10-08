@@ -1,0 +1,4 @@
+DevAtlas is live on the atlas.
+30,000+ curated developer tools, APIs & datasets from GitHub awesome lists — instant search, daily trending leaderboards, hidden gems.
+
+https://devtomb.netlify.app/

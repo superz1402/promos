@@ -1,0 +1,4 @@
+POV: you find the perfect dev tool in 9 seconds.
+DevAtlas — 30,000+ developer tools, APIs & datasets. Daily trending leaderboards. Hidden gems.
+
+https://devtomb.netlify.app/

@@ -1,0 +1,4 @@
+Every tool. One atlas.
+DevAtlas — 30,000+ developer resources from GitHub awesome lists, searchable and ranked daily.
+
+https://devtomb.netlify.app/

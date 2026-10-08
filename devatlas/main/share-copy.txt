@@ -1,0 +1,4 @@
+GitHub made the awesome lists. DevAtlas makes them searchable.
+30,000+ dev tools, APIs and datasets — daily trending leaderboards, hidden gems, zero digging.
+
+https://devtomb.netlify.app/
