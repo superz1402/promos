@@ -1,0 +1,5 @@
+LINUX DEV TOOLS. ON YOUR PHONE. NO DIGGING. NO SETUP. NO EXCUSES.
+
+npm install -g linuxify-cli
+
+#android #termux #cli #devtools #buildinpublic

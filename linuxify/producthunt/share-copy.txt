@@ -1,0 +1,11 @@
+Linuxify is live.
+
+Run Linux developer tools on Android
+
+- One command
+- Self-healing
+- 12 packages
+
+npm install -g linuxify-cli
+
+#android #termux #cli #devtools #buildinpublic

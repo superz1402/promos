@@ -1,0 +1,7 @@
+Linux dev tools. On your phone.
+
+Run Linux developer tools on Android.
+
+npm install -g linuxify-cli
+
+#android #termux #cli #devtools #buildinpublic
