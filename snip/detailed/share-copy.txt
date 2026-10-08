@@ -1,0 +1,7 @@
+Stop re-Googling your own commands.
+
+No memorization. No config. Just snip.
+
+github.com/Bilal140202/snip
+
+#cli #dx #devtools #buildinpublic

@@ -1,0 +1,11 @@
+snip is live.
+
+Project-scoped command snippets in a committable file
+
+- Committable .snips
+- Fuzzy + natural language
+- Auto-detects commands
+
+github.com/Bilal140202/snip
+
+#cli #dx #devtools #buildinpublic
