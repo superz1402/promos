@@ -1,0 +1,11 @@
+TalkDrive is live.
+
+Turn any portrait into a talking-head video
+
+- Runs on Colab T4
+- Full-res 16:9 output
+- Face-crop fix
+
+TalkDrive on GitHub
+
+#ai #talkinghead #colab #deeplearning #buildinpublic
