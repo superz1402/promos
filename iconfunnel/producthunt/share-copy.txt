@@ -1,0 +1,11 @@
+IconFunnel is live.
+
+Browse, customize and export thousands of icons
+
+- Browse thousands of icons
+- Customize as you go
+- Export every size
+
+iconfunnel.netlify.app
+
+#icons #design #devtools #buildinpublic
