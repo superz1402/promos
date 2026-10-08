@@ -1,0 +1,11 @@
+PodXplain is live.
+
+CPU-friendly multi-voice podcast generation
+
+- Multi-voice podcasts
+- Dialogue mode
+- MP3 export
+
+PodXplain — live on Hugging Face
+
+#podcast #tts #kokoro #huggingface #buildinpublic
