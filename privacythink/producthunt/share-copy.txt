@@ -1,0 +1,11 @@
+PrivacyThink is live.
+
+Document chat with AI — 100% locally
+
+- No cloud
+- No tracking
+- No subscriptions
+
+privacythink.netlify.app
+
+#localai #privacy #rust #tauri #buildinpublic
